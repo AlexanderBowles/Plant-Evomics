@@ -1,5 +1,5 @@
 #!/usr/bin/perl -w
-#Jordi Paps, Oxford 2015
+#Alexander Bowles, University of Essex 2018
 #Beginning Perl for Bioinformatics
 use strict;
 use Term::ANSIColor;
