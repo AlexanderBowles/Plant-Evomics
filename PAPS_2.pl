@@ -1,5 +1,5 @@
 #! /usr/bin/perl -w
-#Jordi Paps, Oxford 2015; with help of Patrick Gemmell (Oxford) for some subroutines
+#Alexander Bowles, University of Essex 2018; with help of Jordi Paps (Oxford, Essex & Bristol) and Patrick Gemmell (Oxford)
 #Beginning Perl for Bioinformatics
 use strict;
 use AnyDBM_File;
